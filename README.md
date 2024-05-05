@@ -37,6 +37,9 @@ We will apply various Data Analytics skills and techniques here.
 
 ![image](https://github.com/Aziz-fer/Analysis-on-Emerging-Technology-Skills-and-Trends/assets/64703046/e36bde5d-f571-4232-a17f-d3f4ffcdf39c)
 
+![image](https://github.com/Aziz-fer/Analysis-on-Emerging-Technology-Skills-and-Trends/assets/64703046/f30dd162-0046-4be5-9b5d-3ad0f1b03fd1)
+
+
 ### **Module 6:** Presentation of Findings
 - A presentation in PDF Form
 
